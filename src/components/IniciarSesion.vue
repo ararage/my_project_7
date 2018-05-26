@@ -3,7 +3,7 @@
     <div class="jumbotron">
       <mostrarFormulario>
         <div slot="titulo">
-          <h3>Iniciar Sesión</h3>
+          <h3>Iniciar Sesion</h3>
         </div>
         <div slot="elementos">
           <div class="form-group">
@@ -25,8 +25,6 @@
 
 <script>
 import MostrarFormulario from './components/MostrarFormulario.vue'
-import CambiarClave from './components/CambiarClave.vue'
-import 
 export default {
   components: {
       mostrarFormulario: MostrarFormulario,
